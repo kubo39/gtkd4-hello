@@ -1,0 +1,15 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/gtkd4-hello
+gtkd4-hello.so
+gtkd4-hello.dylib
+gtkd4-hello.dll
+gtkd4-hello.a
+gtkd4-hello.lib
+gtkd4-hello-test-*
+*.exe
+*.o
+*.obj
+*.lst
